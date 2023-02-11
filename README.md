@@ -22,5 +22,8 @@
 
 |№|Название проекта|О чём проект|Навыки и инструменты|
 |---|---|---|---|
-|fddf|fff|dfdg|ddd|
-
+|1|[Вводный проект. Музыка больших городов](https://github.com/RozenkovAndrey/projects_of_yandex_practicum/tree/main/music_moscow_and_spb)|На реальных данных Яндекс Музыки проверены гипотезы и проведено сравнение поведения пользователей двух столиц|Python, Pandas|
+|2|fff|dfdg|ddd|
+|3|fff|dfdg|ddd|
+|4|fff|dfdg|ddd|
+|5|fff|dfdg|ddd|
