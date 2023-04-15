@@ -14,7 +14,9 @@ pandas, matplotlib
 
 # Использованные данные о:
 визитах пользователей: /datasets/visits_info_short.csv. 
+
 заказах пользователей: /datasets/orders_info_short.csv. 
+
 расходах пользователей: /datasets/costs_info_short.csv. 
 
 # Основные выводы:
